@@ -1,5 +1,6 @@
 # my_PowerBI_projects
 
-# [Project 1: Car Price Predictor](https://github.com/pradyumna-burly/car-price-predictor)
+# [Project 1: Zomato Sales Dashboard](https://github.com/pradyumna-burly/zomato-sales-dashboard)
 
-This project utilizes a linear regression model to predict car prices based on various features. It includes a Flask web application with a user-friendly interface, developed using HTML and CSS by another contributor. The project is deployed on Render.com.
+This project involves creating a comprehensive Power BI dashboard to analyze Zomato sales data from 2017-2020. The dashboard includes dynamic KPIs such as sales amount, quantity, and ratings, segmented by categories like veg, non-veg, and snacks. It also features visualizations of sales trends, top-performing cities, and user performance metrics, providing deep insights into Zomato's sales and user behavior during the specified period.
+
